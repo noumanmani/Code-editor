@@ -40,6 +40,7 @@ textarea{
     background-color: rgb(243, 222, 222);
     height: 90vh;
     width: 100%;
+    font-size: 4rem;
 
 }
 i {
@@ -53,4 +54,7 @@ button{
     width: 10rem;
     border-radius: .7rem ;
     cursor: pointer;
+}
+iframe #output{
+    font-size: 4rem;
 }
